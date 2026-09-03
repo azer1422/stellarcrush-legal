@@ -1,5 +1,5 @@
 ---
-title: Stellar Crush Universe — Support
+title: Support
 ---
 
 # Support

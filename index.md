@@ -1,5 +1,5 @@
 ---
-title: Stellar Crush Universe — Privacy Policy
+title: Privacy Policy
 ---
 
 # Privacy Policy — Stellar Crush Universe
