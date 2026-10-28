@@ -11,4 +11,4 @@ model and iOS version — we read everything and fix fast.
 For purchase issues, you can also use Report a Problem on your Apple
 receipt; refunds for in-app purchases are handled by Apple.
 
-[Privacy Policy](https://nexusapplications.com/stellarcrush-privacy.html)
+[Privacy Policy](https://nexus-applications.web.app/stellarcrush-privacy)
